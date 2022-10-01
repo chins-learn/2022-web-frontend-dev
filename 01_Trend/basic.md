@@ -14,8 +14,8 @@ JavaScript
 3. 実行環境
     * node.jsの使用
 
-**ECMAScript言語使用** https://tc39.es/ecma262/
-**TypeScript公式サイト** https://www.typescriptlang.org/ja/
-**node.js公式サイト** https://nodejs.org/ja/
-**npmレポジトリ** https://www.npmjs.com/
+**ECMAScript言語使用** https://tc39.es/ecma262/  
+**TypeScript公式サイト** https://www.typescriptlang.org/ja/  
+**node.js公式サイト** https://nodejs.org/ja/  
+**npmレポジトリ** https://www.npmjs.com/  
 
